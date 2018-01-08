@@ -1,0 +1,5 @@
+Pseudocode
+o	Look through the word by doing this:
+?	Search the before word in the sentence
+?	Replace the word in the sentence
+o	Display the new sentence.
